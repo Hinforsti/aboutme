@@ -15,7 +15,7 @@ a {
 
 .nav{
   min-height: 40px;
-  background-color: black
+  background-color: black;
   text-allign: center;
   padding: 10px;
   font-weight: 600;
@@ -71,7 +71,7 @@ header img: hover {
 }
 
 h1 {
-  background-color: #fff
+  background-color: #fff;
    display: table;
    margin: 10px auto;
    padding: 10px;
